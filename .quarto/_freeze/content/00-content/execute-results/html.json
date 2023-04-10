@@ -1,0 +1,16 @@
+{
+  "hash": "92b54da1cb5db2f44694ee52befb69ff",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 00\"\ndate: \"2023-03-03\"\n---\n\n\n## Bievenida al curso\n\n¡Bienvenidos al Curso **Diseños de Estudios Epidemiológicos 2023**!\n\n\n## Objetivos\n\nEn esta sesión se buscará:\n\n- Dar palabras de bienvenida.\n- Presentación de curso y recursos informáticos.\n\n\n## Materiales\n\n::: {.panel-tabset}\n\n### Clase grabada\n\n*Se colgará apenas esté disponible*\n\n### Slides\n\n\n\n\n\n\n```{=html}\n<iframe width=\"780\" height=\"500\" src=\"/slides/sesion0.html\" title=\"Sesión 0 - Bienvenida al Curso\"></iframe>\n```\n\n\n*Se colgará apenas esté disponible*\n\n:::\n\n\n",
+    "supporting": [
+      "00-content_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

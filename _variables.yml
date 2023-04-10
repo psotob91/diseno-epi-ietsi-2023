@@ -1,0 +1,29 @@
+author: Diego Urrunaga
+
+lang: es
+
+instructor:
+  name: "Diego Urrunaga, M.D., M.Sc(c)"
+  name_no_title: "Diego Urrunaga"
+  email: "diego.urrunaga.pastor1@gmail.com"
+  office: "Virtual: Zoom"
+  contact_policy: >-
+    E-mail y Whatssap son las mejores formas de ponerse en contacto conmigo. Intentaré responder a todos los correos electrónicos relacionados con el curso y los mensajes dentro de las 24 horas (*de verdad*), pero también recuerde que la vida puede ser ajetreada y caótica para todos (¡incluido yo!), así que si no respondo enseguida, no te preocupes!
+
+course:
+  number: "DISEÑO-IETSI-2023"
+  semester: "Programa de Formación Científica 2023"
+  days: "Lunes, martes y miércoles"
+  time: "3-6 pm"
+  location: "Zoom"
+  dates: "10 de abril al 17 de abril, 2023"
+  github: "https://github.com/psotob91/diseño-epi-ietsi-2023"
+  copyright_year: "2023"
+
+university:
+  name: Seguro Social de Salud del Perú -- EsSalud
+  url: "https://portal.essalud.gob.pe/"
+
+school:
+  name: Instituto de Evalución de Tecnologías en Salud e Investigación -- IETSI, EsSalud
+  url: "https://ietsi.essalud.gob.pe/investigacion-en-salud/"

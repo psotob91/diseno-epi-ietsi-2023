@@ -1,0 +1,38 @@
+{
+  "404.qmd": {
+    "404.html": "e13bff76"
+  },
+  "about.qmd": {
+    "about.html": "4764d964"
+  },
+  "content/00-content.qmd": {
+    "00-content.html": "8ea96f12"
+  },
+  "content/01-content.qmd": {
+    "01-content.html": "2f9a96f0"
+  },
+  "content/02-content.qmd": {
+    "02-content.html": "01063890"
+  },
+  "content/03-content.qmd": {
+    "03-content.html": "6104f4e9"
+  },
+  "content/04-content.qmd": {
+    "04-content.html": "4630d0f4"
+  },
+  "content/05-content.qmd": {
+    "05-content.html": "42679423"
+  },
+  "content/index.qmd": {
+    "index.html": "259324e1"
+  },
+  "index.qmd": {
+    "index.html": "7daeee2e"
+  },
+  "schedule.qmd": {
+    "schedule.html": "e21f9ee2"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "baabc37a"
+  }
+}

@@ -1,0 +1,56 @@
+---
+title: "Día 01"
+date: "2023-04-10"
+---
+
+## Objetivos
+
+En esta sesión se buscará abordar los siguientes temas: 
+
+- Introducción al diseño de estudios epidemiológicos.
+- Dar a conocer las características generales de estos.
+
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase teórica: Videograbación
+
+*Se colgará apenas esté disponible*
+
+### Clase teórica: slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things-pdf.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+slide_buttons_pdf("/slides/sesion01")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion01.pdf" title="Sesión 01"></iframe>
+```
+
+### Clase prática: Taller
+
+```{r slides-videos-taller, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things-pdf.R"))
+```
+
+```{r show-slide-tabs1-taller, echo=FALSE, results="asis"}
+slide_buttons_pdf("/slides/sesion01_taller")
+```
+
+```{=html}
+<iframe width="780" height="500" src="../slides/sesion01_taller.pdf" title="Sesión 01"></iframe>
+```
+
+### Clase prática: Solucionario
+
+*Se colgará apenas esté disponible*
+
+:::
+
+

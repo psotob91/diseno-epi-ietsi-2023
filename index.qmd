@@ -1,0 +1,41 @@
+---
+title: "Diseños de estudios epidemiológicos 2023"
+subtitle: "Curso para profesionales de la salud de EsSalud, Perú"
+details: |
+  DESIGN-EPI-IETSI-2023 • Programa de Formación Científica 2023<br>Dirección de Investigación en Salud | <br> Instituto de Evaluación de Tecnologías en Salud e Investigación -- IETSI, EsSalud <br> Virtual & Sincrónico
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: logo.png
+---
+
+::: home
+::: {.grid .course-details}
+::: g-col-4
+### Instructor
+
+-   {{< fa user >}}   {{< var instructor.name >}}
+-   {{< fa university >}}   {{< var instructor.office >}}
+:::
+
+::: g-col-4
+### Detalles del curso
+
+-   {{< fa calendar >}}   {{< var course.days >}}
+-   {{< fa calendar-alt >}}   {{< var course.dates >}}
+-   {{< fa clock >}}   {{< var course.time >}}
+-   {{< fa location-dot >}}   {{< var course.location >}}
+:::
+
+::: {.g-col-4 .contact-policy}
+### Contáctame
+
+{{< var instructor.contact_policy >}}
+:::
+:::
+
+:::

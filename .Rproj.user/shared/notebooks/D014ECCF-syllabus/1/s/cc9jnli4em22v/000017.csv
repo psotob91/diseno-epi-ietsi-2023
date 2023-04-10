@@ -1,0 +1,8 @@
+"0","#| echo: false"
+"0","tibble::tribble("
+"0","                       ~Tipo, ~`Peso.Ponderado.(%)`,"
+"0","       ""Prácticas dirigidas"",                   40L,"
+"0","  ""Trabajo integrador final"",                   60L"
+"0","  ) %>% "
+"0","  kbl(col.names = c(""Tipo"", ""Peso ponderado"")) %>% "
+"0","  kable_styling(bootstrap_options = c(""striped"", ""hover"", ""condensed"", ""responsive""))"

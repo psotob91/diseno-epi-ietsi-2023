@@ -1,0 +1,45 @@
+---
+title: "Sesión 00"
+date: "2023-03-03"
+---
+
+## Bievenida al curso
+
+¡Bienvenidos al Curso **Diseños de Estudios Epidemiológicos 2023**!
+
+
+## Objetivos
+
+En esta sesión se buscará:
+
+- Dar palabras de bienvenida.
+- Presentación de curso y recursos informáticos.
+
+
+## Materiales
+
+::: {.panel-tabset}
+
+### Clase grabada
+
+*Se colgará apenas esté disponible*
+
+### Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+# source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs1, echo=FALSE, results="asis"}
+# slide_buttons("/slides/sesion0")
+```
+
+```{=html}
+<iframe width="780" height="500" src="/slides/sesion0.html" title="Sesión 0 - Bienvenida al Curso"></iframe>
+```
+
+*Se colgará apenas esté disponible*
+
+:::
+
+
