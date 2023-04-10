@@ -1,26 +1,26 @@
 {
-    "id": "E368ACB8",
-    "path": "F:/diseno-epi-ietsi-2023/schedule.qmd",
-    "project_path": "schedule.qmd",
+    "id": "52CCA398",
+    "path": "F:/diseno-epi-ietsi-2023/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1532566611",
+    "hash": "673694706",
     "contents": "",
     "dirty": false,
-    "created": 1681152317554.0,
+    "created": 1681147611715.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,60",
-        "scrollLine": "7"
+        "cursorPosition": "22,3",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1681154764,
+    "lastKnownWriteTime": 1681152170,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1681154763890,
+    "last_content_update": 1681152168163,
     "read_only": false,
     "read_only_alternatives": []
 }

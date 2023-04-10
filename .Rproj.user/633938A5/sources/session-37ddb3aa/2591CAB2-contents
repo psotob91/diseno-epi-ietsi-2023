@@ -1,9 +1,0 @@
-date-heading:
-  content: "Contenido será publicado el"
-  class: "bg-content"
-date-format: "full"
-
-format:
-  html:
-    template-partials:
-      - ../html/title-block.html

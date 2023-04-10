@@ -11,15 +11,15 @@ En esta sesión se buscará abordar los siguientes temas:
 - Dar a conocer las características generales de estos.
 
 
-## Materiales
+## Clase teórica:
 
 ::: {.panel-tabset}
 
-### Clase teórica: Videograbación
+### Videograbación
 
 *Se colgará apenas esté disponible*
 
-### Clase teórica: slides
+### Slides
 
 ```{r slides-videos, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-things-pdf.R"))
@@ -33,7 +33,14 @@ slide_buttons_pdf("/slides/sesion01")
 <iframe width="780" height="500" src="../slides/sesion01.pdf" title="Sesión 01"></iframe>
 ```
 
-### Clase prática: Taller
+:::
+
+
+## Clase práctica
+
+::: {.panel-tabset}
+
+### Taller
 
 ```{r slides-videos-taller, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-things-pdf.R"))
@@ -47,7 +54,7 @@ slide_buttons_pdf("/slides/sesion01_taller")
 <iframe width="780" height="500" src="../slides/sesion01_taller.pdf" title="Sesión 01"></iframe>
 ```
 
-### Clase prática: Solucionario
+### Solucionario
 
 *Se colgará apenas esté disponible*
 
